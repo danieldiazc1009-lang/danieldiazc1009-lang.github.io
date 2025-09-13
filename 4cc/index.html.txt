@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<HTML lang="es">
+<html lang="es">
 <head>
   <meta charset="UTF-8">
   <title>Quiénes Somos - 4CC Soluciones Integrales SAC</title>
@@ -29,3 +29,4 @@
   </footer>
 </body>
 </html>
+
